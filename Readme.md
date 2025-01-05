@@ -156,4 +156,6 @@ This backend API provides functionality for user management, account balance ret
 
 ---
 
+## API Documentation
 
+For detailed API documentation, visit: [API Documentation Link](Payments_dodo.pdf)
